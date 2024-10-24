@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A Software Engineer based in London</h3>
+<h3 align="center">I'm a Software Engineer based in London!</h3>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomaston1996&label=Profile%20views&color=0e75b6&style=flat" alt="tomaston1996" /> </p>
