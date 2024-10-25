@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomaston1996&label=Profile%20views&color=0e75b6&style=flat" alt="tomaston1996" /> </p>
 
-- 🔭 I’m currently working on [etaStocks](https://github.com/TomAston1996/eta-stocks-frontend) & [netscanner](https://github.com/TomAston1996/net-scanner)
+- 🔭 I’m currently working on [eta-stocks](https://github.com/TomAston1996/eta-stocks-frontend) & [net-scanner](https://github.com/TomAston1996/net-scanner)
 
 - 🌱 I’m currently learning **Spring Boot**
 
