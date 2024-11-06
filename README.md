@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [www.tomaston.dev](www.tomaston.dev)
+- 👨‍💻 All of my projects are available at [www.tomaston.dev](https://www.tomaston.dev)
 
 - 💬 Ask me about **AWS, React, TypeScript, Python**
 
