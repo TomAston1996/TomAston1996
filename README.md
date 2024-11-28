@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [www.tomaston.dev](https://www.tomaston.dev)
 
-- 💬 Ask me about **AWS, React, TypeScript, Python**
+- 💬 Ask me about **AWS, Backend, TypeScript, Java, Python**
 
 - 📫 How to reach me **mail@tomaston.dev**
 
