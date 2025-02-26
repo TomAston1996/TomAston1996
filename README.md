@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [www.tomaston.dev](https://www.tomaston.dev)
 
-- ☁️ I'm an AWS Certified Developer
+- ☁️ I'm an **AWS Certified Developer**
 
 - 💬 Ask me about **AWS, Backend, TypeScript, Java, Python, Serverless**
 
