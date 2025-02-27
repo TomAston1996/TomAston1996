@@ -12,7 +12,7 @@
 
 - ☁️ I'm an **AWS Certified Developer**
 
-- 💬 Ask me about **AWS, Backend Engineering, TypeScript, Java, Python, Serverless**
+- 💬 Ask me about **AWS, Backend Dev, TypeScript, Java, Python, Serverless**
 
 - 📫 How to reach me **mail@tomaston.dev**
 
