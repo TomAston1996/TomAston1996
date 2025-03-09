@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomaston1996&label=Profile%20views&color=0e75b6&style=flat" alt="tomaston1996" /> </p>
 
-- 🔭 I’m currently working on [eta-stocks-frontend](https://github.com/TomAston1996/eta-stocks-frontend), [eta-stocks-backend](https://github.com/TomAston1996/eta-stocks) & [net-scanner](https://github.com/TomAston1996/net-scanner)
+- 🔭 I’m currently working on [raspi-streamer](https://github.com/TomAston1996/raspi-streamer) ᯤ
 
-- 🌱 I’m currently learning **Spring Boot**
-
-- 👨‍💻 All of my projects are available at [www.tomaston.dev](https://www.tomaston.dev)
+- 👨‍💻 An overview of my projects are available at [www.tomaston.dev](https://www.tomaston.dev)
 
 - ☁️ I'm an **AWS Certified Developer**
 
