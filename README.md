@@ -1,8 +1,9 @@
 <h1 align="left">Hi, I'm Tom 👋</h1>
-<!-- <h3 align="center">I'm a Software Engineer based in London </h3> -->
+
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomaston1996&label=Profile%20views&color=0e75b6&style=flat" alt="tomaston1996" /> </p>
+<p align="left">I’m a Software Engineer with experience in developing cloud-based applications and mathematical models for simulation tech. Currently, I work with AWS, Python (FastAPI), TypeScript, Node.js, and React to deliver scalable and secure systems. </p>
 
 - 🔭 I’m currently working on [raspi-streamer](https://github.com/TomAston1996/raspi-streamer) ᯤ
 
