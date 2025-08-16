@@ -11,7 +11,7 @@
 
 - ☁️ I'm an **AWS Certified Developer**
 
-- 💬 Ask me about **AWS, Backend Development, Python, TypeScript, Java**
+- 💬 Ask me about **AWS, Backend Development, Python**
 
 - 📫 How to reach me **mail@tomaston.dev**
 
