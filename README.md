@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomaston1996&label=Profile%20views&color=0e75b6&style=flat" alt="tomaston1996" /> </p>
-<p align="left">I’m a <b>Software Engineer</b> with experience in developing cloud-based applications and productionising mathematical models to power simulation tools. Currently, I work with AWS, Python (FastAPI), TypeScript, Node.js, and React to deliver scalable and secure systems. </p>
+<p align="left">I’m a <b>Software Engineer</b> with experience in developing cloud-based applications and productionising mathematical models to power simulation tools. Currently, I work with AWS, Python (FastAPI), TypeScript, Node.js, and React to deliver scalable and performant systems. </p>
 
 - 🔭 I’m currently working on [raspi-streamer](https://github.com/TomAston1996/raspi-streamer) ᯤ
 
